@@ -2,7 +2,16 @@
 
 This repository contains the style templates for [`thqm`](https://github.com/loiccoyle/thqm-rs).
 
-## 🎨 Styles
+## 🖼 Gallery
+
+- [`default`](styles/default): the default style
+  ![default style](gallery/default.png)
+- [`fa-grid`](styles/fa-gtid): `fontawesome` icon grid
+  ![fa-grid style](gallery/fa-grid.png)
+- [`base`](styles/base): a bare bones style, which can be used as a base for your own styles
+  ![base style](gallery/base.png)
+
+## 🎨 Style structure
 
 A `thqm` style should have the following structure:
 
